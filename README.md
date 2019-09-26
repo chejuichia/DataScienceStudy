@@ -6,10 +6,10 @@ SpringBoard Data Science Projects at a Glance
 **Applied data science to Yelp dataset**
 
 **Key Skills**
-* Reading and processing large datasets
-* Data wrangling
-* Exploratory data analysis
-* Statistical data analysis
+* [Reading and processing large datasets](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/data_wrangling_2.ipynb)
+* [Data wrangling](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/data_wrangling_1.ipynb)
+* [Exploratory data analysis](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/data_storytelling.ipynb)
+* [Statistical data analysis](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/statistical_data_analysis.ipynb)
 * Machine learning in-depth analysis
 * Predictive modeling
 * Communication and presentation
@@ -63,3 +63,10 @@ SpringBoard Data Science Projects at a Glance
 * Estimation of Parameters
 * Simulation with random variates
 * Model distributions
+
+## Machine Learning Projects
+### [Linear Regression](https://github.com/juichiaholland/DataScienceStudy/blob/master/linear_regression/Mini_Project_Linear_Regression.ipynb)
+**Predicted housing prices with linear regression models, scored and fine tuned models**
+
+### [Logistic Regression](https://github.com/juichiaholland/DataScienceStudy/blob/master/logistic_regression/Mini_Project_Logistic_Regression.ipynb)
+**Modeling binary outcomes in gender with features in heights and weights using logistic regression, scored and fine tuned models**
