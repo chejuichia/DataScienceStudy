@@ -44,19 +44,17 @@ SpringBoard Data Science Projects at a Glance
 **Applied the Central Limit Theorem to a sampling distribution and calculated critical values and confidence intervals for hospital charges**
 
 **Key Skills**
-* Python stats functions
-* using the Central Limit Theorem, the z-statistic and t-statistic
-* how to estimate the population mean and standard deviation from a sample
-* sampling distribution of a test statistic
-* how to calculate a confidence interval
+* Use the Central Limit Theorem, the z-statistic and t-statistic
+* Estimate the population mean and standard deviation from a sample
+* Sampling distribution of a test statistic
+* Calculate a confidence interval
 
 ## [Bootstrap Inference Study](https://github.com/juichiaholland/DataScienceStudy/blob/master/Bootstrap%20Inference/inferential_statistics_2-Q.ipynb)
 **Ran experiment replicates for hypothesis tests on subgroups of hospital charge data**
 
 **Key Skills**
-* Python stats package
-* test the differences between multiple subgroups
-* calculate the p-values for the differences between subgroups
+* Test the differences between multiple subgroups
+* Calculate the p-values for the differences between subgroups
 
 ## [Bayesian Inference Study](https://github.com/juichiaholland/DataScienceStudy/blob/master/Bayesian_stats_Q6.28/inferential_statistics_3-Q.ipynb)
 **Used pymc3 library to model hospital charges and their range of values**
