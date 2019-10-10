@@ -10,8 +10,8 @@ SpringBoard Data Science Projects at a Glance
 * [Data wrangling](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/data_wrangling_1.ipynb)
 * [Exploratory data analysis](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/data_storytelling.ipynb)
 * [Statistical data analysis](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/statistical_data_analysis.ipynb)
-* Machine learning in-depth analysis
-* Predictive modeling
+* [Data wrangling for machine learning](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/machine_learning_wrangling.ipynb)
+* [In depth analysis with tree based models and ensemble methods]
 * Communication and presentation
 * Storytelling
 
