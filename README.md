@@ -3,24 +3,26 @@ Juichia's Data Science Projects at a Glance
 
 ## Capstone Project 1
 ### [Improving Success Rates of Restaurants](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/Capstone%20Project%201%20Presentation.pdf)
-**Restaurants are a big part of modern life and they make up a significant portion of small businesses everywhere. They are known for high turnover and failure rates, especially within the first year of business. Failed restaurants are costly to the restaurateurs, to the industry and to the diners. When restaurants fail as businesses, the restaurateurs themselves and their financial sponsors bear economic burden, the food services industry lose potential growth from the contribution of new ideas and economy, and the diners lose out on opportunities for new enjoyable experiences. This study in data science aims to help restaurateurs to incorporate more success factors into their strategies when opening new restaurants.
-**
+Restaurants are a big part of modern life and they make up a significant portion of small businesses everywhere. They are known for high turnover and failure rates, especially within the first year of business. Failed restaurants are costly to the restaurateurs, to the industry and to the diners. When restaurants fail as businesses, the restaurateurs themselves and their financial sponsors bear economic burden, the food services industry lose potential growth from the contribution of new ideas and economy, and the diners lose out on opportunities for new enjoyable experiences. This study in data science aims to help restaurateurs to incorporate more success factors into their strategies when opening new restaurants.
 
-**Key Skills**
+**Key Skills & Deliverables**
 * [Reading and processing large datasets](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/data_wrangling_2.ipynb)
 * [Data wrangling](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/data_wrangling_1.ipynb)
 * [Exploratory data analysis](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/data_storytelling.ipynb)
 * [Statistical data analysis](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/statistical_data_analysis.ipynb)
+* [Milestone Report]
+(https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/Capstone%20Project%201%20Milestone%20Report.pdf)
 * [Data wrangling for machine learning](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/machine_learning_wrangling.ipynb)
 * [In depth analysis with tree based models and ensemble methods]
-* Communication and presentation
-* Storytelling
+(https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/machine_learning.ipynb)
+* [Storytelling]
+(https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/Capstone%20Project%201%20Presentation.pdf)
 
 ## Capstone Project 2
 ### [Improving Demand Forecasting]
-**What is the seasonality of products in a store? How does demand compare across different stores for the same item? What about seasonally? What will the demand for a product be in the next few months? Accurate forecasting of sales and demand is an important part to managing the supply chain for both online and physical retail. This study in data science analyzes the sales of 50 different items at 10 stores across 5 years and goes through a process of fine tuning the forecasts in demand. **
+What is the seasonality of products in a store? How does demand compare across different stores for the same item? What about seasonally? What will the demand for a product be in the next few months? Accurate forecasting of sales and demand is an important part to managing the supply chain for both online and physical retail. This study in data science analyzes the sales of 50 different items at 10 stores across 5 years and goes through a process of fine tuning the forecasts in demand.
 
-**Key Deliverables**
+**Key Skills & Deliverables**
 * [EDA, feature extending and transformation of time series](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%202/notebooks/eda.ipynb)
 * [Milestone report](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%202/reports/Capstone%20Project%202%20Milestone%20Report.pdf)
 
