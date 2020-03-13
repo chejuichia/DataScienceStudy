@@ -1,5 +1,5 @@
-# Data Science Portfolio
-Juichia's Data Science Projects at a Glance
+# Technical Portfolio
+Juichia's Data Science & Machine Learning Projects at a Glance
 
 ## Winner of Data Science Hackathon
 ### [Porsche Clean Air Hackathon 2020](https://github.com/juichiaholland/DataScienceHackathon/blob/master/assessing_environmental_impact/reports/PorscheEVStrategy.pdf)
