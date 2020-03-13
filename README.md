@@ -10,10 +10,11 @@ Restaurants are a big part of modern life and they make up a significant portion
 * [Data wrangling](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/data_wrangling_1.ipynb)
 * [Exploratory data analysis](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/data_storytelling.ipynb)
 * [Statistical data analysis](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/statistical_data_analysis.ipynb)
-* [Milestone Report](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/Capstone%20Project%201%20Milestone%20Report.pdf)
+* [Milestone report](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/Capstone%20Project%201%20Milestone%20Report.pdf)
 * [Data wrangling for machine learning](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/machine_learning_wrangling.ipynb)
 * [In depth analysis with tree based models and ensemble methods](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/machine_learning.ipynb)
 * [Storytelling](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/Capstone%20Project%201%20Presentation.pdf)
+* [Final report](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/Capstone%20Project%201%20Final%20Report.pdf)
 
 ## Capstone Project 2
 ### Improving Demand Forecasting
