@@ -21,7 +21,7 @@ Restaurants are a big part of modern life and they make up a significant portion
 What is the seasonality of products in a store? How does demand compare across different stores for the same item? What about seasonally? What will the demand for a product be in the next few months? Accurate forecasting of sales and demand is an important part to managing the supply chain for both online and physical retail. This study in data science analyzes the sales of 50 different items at 10 stores across 5 years and goes through a process of fine tuning the forecasts in demand.
 
 **Key Skills & Deliverables**
-* [EDA, feature extending and transformation of time series](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%202/notebooks/eda.ipynb)
+* [EDA, feature engineering and transformation of time series](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%202/notebooks/eda.ipynb)
 * [Milestone report](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%202/reports/Capstone%20Project%202%20Milestone%20Report.pdf)
 
 ## Data Wrangling Projects
