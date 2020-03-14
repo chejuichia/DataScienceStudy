@@ -29,7 +29,7 @@ Restaurants are a big part of modern life and they make up a significant portion
 * [Final report](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/Capstone%20Project%201%20Final%20Report.pdf)
 
 ## Capstone Project 2
-### Improving Demand Forecasting
+### [Improving Demand Forecasting](https://docs.google.com/presentation/d/1uSFY0B0ZUD9SckeqUS_kKmI5MuusDnZI0YiTL27q3LQ/edit?usp=sharing)
 What is the seasonality of products in a store? How does demand compare across different stores for the same item? What about seasonally? What will the demand for a product be in the next few months? Accurate forecasting of sales and demand is an important part to managing the supply chain for both online and physical retail. This study in data science analyzes the sales of 50 different items at 10 stores across 5 years and goes through a process of fine tuning the forecasts in demand.
 
 **Key Skills & Deliverables**
