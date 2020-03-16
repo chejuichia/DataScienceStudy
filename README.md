@@ -2,16 +2,16 @@
 Juichia's Data Science & Machine Learning Projects at a Glance
 
 ## Winner of Data Science Hackathon
-### [Porsche Electric Vehicle Hackathon 2020](https://github.com/juichiaholland/DataScienceHackathon/blob/master/assessing_environmental_impact/reports/PorscheEVStrategy.pdf)
+### [Porsche Electric Vehicle Hackathon 2020](https://github.com/juichiaholland/DataScienceStudy/blob/master/Porsche%20Clean%20Air%20Hackathon/reports/PorscheEVStrategy.pdf)
 What are the locations with demand for more EV charging infrastructure? What types of charging infrastructure are lacking or are popular in the locations of demand? What are the locations with demand for EV at the Porsche Taycan price level? Who are the consumers that live around these locations of demand? What are the preferred EV attributes for these consumers in these locations?
 
 Workinig in a team of 3, our proposal to answer these questions was selected out of 19+ teams to compete in the final hackathon, and our final analysis and presentation won second place in the competition. All deliverables were completed within 10 days.
 
 **Key Skills & Deliverables**
-* [Project planning and proposal](https://github.com/juichiaholland/DataScienceHackathon/blob/master/assessing_environmental_impact/reports/Porsche%20Clean%20Air%20Hackathon%20Proposal.pdf)
-* [Data wrangling, EDA, statistical data analysis, and linear regression for charging station locations](https://github.com/juichiaholland/DataScienceHackathon/blob/master/assessing_environmental_impact/notebooks/Charging%20Station%20Locations.ipynb)
-* [EDA, statistical data analysis, and linear regression for electric vehicle offering](https://github.com/juichiaholland/DataScienceHackathon/blob/master/assessing_environmental_impact/notebooks/EV%20Offering.ipynb)
-* [Storytelling of an electric vehicle strategy for Porsche](https://github.com/juichiaholland/DataScienceHackathon/blob/master/assessing_environmental_impact/reports/PorscheEVStrategy.pdf)
+* [Project planning and proposal](https://github.com/juichiaholland/DataScienceStudy/blob/master/Porsche%20Clean%20Air%20Hackathon/reports/Porsche%20Clean%20Air%20Hackathon%20Proposal.pdf)
+* [Data wrangling, EDA, statistical data analysis, and linear regression for charging station locations](https://github.com/juichiaholland/DataScienceStudy/blob/master/Porsche%20Clean%20Air%20Hackathon/notebooks/Charging%20Station%20Locations.ipynb)
+* [EDA, statistical data analysis, and linear regression for electric vehicle offering](https://github.com/juichiaholland/DataScienceStudy/blob/master/Porsche%20Clean%20Air%20Hackathon/notebooks/EV%20Offering.ipynb)
+* [Storytelling of an electric vehicle strategy for Porsche](https://github.com/juichiaholland/DataScienceStudy/blob/master/Porsche%20Clean%20Air%20Hackathon/reports/PorscheEVStrategy.pdf)
 
 ## Capstone Project 1
 ### [Improving Success Rates of Restaurants](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%201/Capstone%20Project%201%20Presentation.pdf)
