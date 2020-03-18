@@ -37,6 +37,7 @@ What is the seasonality of products in a store? How does demand compare across d
 * [Milestone report](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%202/reports/Capstone%20Project%202%20Milestone%20Report.pdf)
 * [Modeling with ARIMA, SARIMA, and Facebook Prophet](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%202/notebooks/time_series_analysis.ipynb)
 * [Final report](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%202/reports/Capstone%20Project%202%20Final%20Report.pdf)
+* [Presentation](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%202/reports/Capstone%20Project%202%20Presentation.pdf)
 
 ## Data Wrangling Projects
 ### [JSON Mini Project](https://github.com/juichiaholland/DataScienceStudy/blob/master/JSON%20Study/data_wrangling_json/json_exercise.ipynb)
