@@ -95,3 +95,6 @@ What is the seasonality of products in a store? How does demand compare across d
 
 ### [Logistic Regression Study](https://github.com/juichiaholland/DataScienceStudy/blob/master/logistic_regression/Mini_Project_Logistic_Regression.ipynb)
 **Modeling binary outcomes in gender with features in heights and weights using logistic regression, scored and fine tuned models**
+
+### [Naive Bayes Study](https://github.com/juichiaholland/DataScienceStudy/blob/master/naive_bayes/Mini_Project_Naive_Bayes.ipynb)
+**Predicting movie ratings from reviews using Bayesian methods**
