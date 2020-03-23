@@ -39,30 +39,18 @@ What is the seasonality of products in a store? How does demand compare across d
 * [Final report](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%202/reports/Capstone%20Project%202%20Final%20Report.pdf)
 * [Presentation](https://github.com/juichiaholland/DataScienceStudy/blob/master/Capstone%20Project%202/reports/Capstone%20Project%202%20Presentation.pdf)
 
-## Data Wrangling Projects
-### [JSON Mini Project](https://github.com/juichiaholland/DataScienceStudy/blob/master/JSON%20Study/data_wrangling_json/json_exercise.ipynb)
-**Data wrangling techniques in python applied on a dataset in JSON format**
+## Machine Learning Projects
+### [Linear Regression Study](https://github.com/juichiaholland/DataScienceStudy/blob/master/linear_regression/Mini_Project_Linear_Regression.ipynb)
+**Predicted housing prices with linear regression models, scored and fine tuned models**
 
-**Key Skills**
-* JSON Manipulation and Extraction
-* Applied Plotting and Charting
+### [Logistic Regression Study](https://github.com/juichiaholland/DataScienceStudy/blob/master/logistic_regression/Mini_Project_Logistic_Regression.ipynb)
+**Modeling binary outcomes in gender with features in heights and weights using logistic regression, scored and fine tuned models**
 
-### [SQL Study](https://github.com/juichiaholland/DataScienceStudy/blob/master/SQL%20Study/1520094343_sql_project.sql)
-**SQL queries applied to three tables from a SQL database**
+### [Naive Bayes Study](https://github.com/juichiaholland/DataScienceStudy/blob/master/naive_bayes/Mini_Project_Naive_Bayes.ipynb)
+**Predicting movie ratings from reviews using Bayesian methods**
 
-**Key Skills**
-* SQL Queries
-* Time Series Analysis
-* Applied Plotting and Charting
-
-### [API Mini Project](https://github.com/juichiaholland/DataScienceStudy/blob/master/API%20Study/API/api_data_wrangling_mini_project.ipynb)
-**Data wrangling techniques in python applied on a dataset sourced from an API**
-
-**Key Skills**
-* API Connection and Requests
-* JSON Extraction and Interpretation
-* Time Series Analysis
-* Statistics
+### [Spark and PySpark](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1935306245426996/287884344878589/3596738772924694/latest.html)
+**Predicting demographic features from census data using ML pipeline of logistic regression, gradient bossting GBM classifier, and random forests**
 
 ## Statistics Projects
 ### [Frequentist Inference Study](https://github.com/juichiaholland/DataScienceStudy/tree/master/Frequentist%20Inference)
@@ -89,12 +77,28 @@ What is the seasonality of products in a store? How does demand compare across d
 * Simulation with random variates
 * Model distributions
 
-## Machine Learning Projects
-### [Linear Regression Study](https://github.com/juichiaholland/DataScienceStudy/blob/master/linear_regression/Mini_Project_Linear_Regression.ipynb)
-**Predicted housing prices with linear regression models, scored and fine tuned models**
+## Data Wrangling Projects
+### [JSON Mini Project](https://github.com/juichiaholland/DataScienceStudy/blob/master/JSON%20Study/data_wrangling_json/json_exercise.ipynb)
+**Data wrangling techniques in python applied on a dataset in JSON format**
 
-### [Logistic Regression Study](https://github.com/juichiaholland/DataScienceStudy/blob/master/logistic_regression/Mini_Project_Logistic_Regression.ipynb)
-**Modeling binary outcomes in gender with features in heights and weights using logistic regression, scored and fine tuned models**
+**Key Skills**
+* JSON Manipulation and Extraction
+* Applied Plotting and Charting
 
-### [Naive Bayes Study](https://github.com/juichiaholland/DataScienceStudy/blob/master/naive_bayes/Mini_Project_Naive_Bayes.ipynb)
-**Predicting movie ratings from reviews using Bayesian methods**
+### [SQL Study](https://github.com/juichiaholland/DataScienceStudy/blob/master/SQL%20Study/1520094343_sql_project.sql)
+**SQL queries applied to three tables from a SQL database**
+
+**Key Skills**
+* SQL Queries
+* Time Series Analysis
+* Applied Plotting and Charting
+
+### [API Mini Project](https://github.com/juichiaholland/DataScienceStudy/blob/master/API%20Study/API/api_data_wrangling_mini_project.ipynb)
+**Data wrangling techniques in python applied on a dataset sourced from an API**
+
+**Key Skills**
+* API Connection and Requests
+* JSON Extraction and Interpretation
+* Time Series Analysis
+* Statistics
+
