@@ -50,7 +50,7 @@ What is the seasonality of products in a store? How does demand compare across d
 **Predicting movie ratings from reviews using Bayesian methods**
 
 ### [Spark and PySpark](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1935306245426996/287884344878589/3596738772924694/latest.html)
-**Predicting demographic features from census data using ML pipeline of logistic regression, gradient bossting GBM classifier, and random forests**
+**Predicting demographic features from census data using ML pipeline of logistic regression, gradient boosting GBM classifier, and random forests**
 
 ## Statistics Projects
 ### [Frequentist Inference Study](https://github.com/juichiaholland/DataScienceStudy/tree/master/Frequentist%20Inference)
