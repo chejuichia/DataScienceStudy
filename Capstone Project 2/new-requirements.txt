@@ -57,7 +57,7 @@ pluggy==0.13.1
 poyo==0.5.0
 prometheus-client==0.7.1
 prompt-toolkit==2.0.10
-py==1.8.0
+py==1.10.0
 pyasn1==0.4.8
 pycodestyle==2.5.0
 pyflakes==2.1.1
